@@ -13,7 +13,7 @@ Elite Athlete | Aspiring Software Engineer | Preparing for Waterloo MMSc
 "I treat coding like my kayaking training: it requires 0.01s precision, extreme discipline, and endless iterations."
 
 * 🔭 Currently learning: **Python Basics** & **Data Logic**.
-* 🎯 2027 Goal: Master's at **University of Waterloo**.
+* 🎯 2027 Goal:  bachelor of **University of Waterloo**.
 * ⚡ Fun fact: I spend more time in the water than on land, but I'm building my digital life one commit at a time.
 
 ---
